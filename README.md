@@ -1,2 +1,7 @@
-# hello-world2
-Learning about github
+# hello World
+
+Rohit here
+
+Hi from Harshali :)
+
+Angel :)
